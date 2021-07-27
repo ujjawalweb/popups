@@ -405,7 +405,7 @@ body,html{overflow:hidden;}
 
 
 @media only screen and (max-width:824px)  and (orientation:landscape) {
-body,html{max-width: 100%!important;
+body,html{overflow-y:scroll;
   }
 
 
